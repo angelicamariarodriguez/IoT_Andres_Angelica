@@ -16,6 +16,8 @@
 
 ## Reto capa de datos
   - https://github.com/angelicamariarodriguez/IoT_Andres_Angelica/tree/reto4
-  - 
+  - https://uniandes.sharepoint.com/:b:/s/DIseodesistemasIoT/EQBGgFOkyyxOl2VaODoRzdIB0TurnoPZsxegCkpV3vw7mQ?e=7WCcV0
+  
+
     
     
